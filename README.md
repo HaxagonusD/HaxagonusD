@@ -7,7 +7,7 @@ I like making websites with React.js, and Express.js
 
 ---
 - 🔭 I’m currently working on the [Harmony app](http://harmonysocial.herokuapp.com/), a Slack bot, an LA Homelessness app, and few other surprises.
-- 🌱 I’m currently learning Redux, React Native, Tmux, Vim , Firebase, Next.js, a language that's not JavaScript 
+- 🌱 I’m currently learning Redux, React Native, Tmux, Vim , Firebase, and Next.js
 - 👯 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with career skills
 - 💬 Ask me about the wonders of the universe  
