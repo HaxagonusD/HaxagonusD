@@ -1,7 +1,9 @@
 ### Greetings 😁
 ---
 I'm Julian. Some call me Hax. I'm a Full Stack Engineer based in New York City looking for a new position. 
-
+I know Javascript like the back of my hand. 
+I've programmed in other languages like Python, Ruby, Java, C / C++.
+I like making websites with React.js, and Express.js 
 
 ---
 > - 🔭 I’m currently working on the [Harmony app](http://harmonysocial.herokuapp.com/), a Slack bot, and LA Homelessness app, and few other surprises.
@@ -12,4 +14,3 @@ I'm Julian. Some call me Hax. I'm a Full Stack Engineer based in New York City l
 > - 📫 How to reach me: julianq.js@gmail.com
 > - ⚡ Fun fact: INTJ
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haxagonusd)](https://github.com/anuraghazra/github-readme-stats)
