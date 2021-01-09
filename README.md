@@ -12,3 +12,4 @@ I'm Julian. Some call me Hax. I'm a Full Stack Engineer based in New York City l
 > - 📫 How to reach me: julianq.js@gmail.com
 > - ⚡ Fun fact: INTJ
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haxagonusd)](https://github.com/anuraghazra/github-readme-stats)
