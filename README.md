@@ -1,4 +1,4 @@
-### Fll STack Engineer - Julain Quezada 😁
+### Full Stack Engineer - Julain Quezada 😁
 ---
 I'm Julian. Some call me Hax. I'm a Full Stack Engineer based in New York City looking for a new position. 
 I know Javascript like the back of my hand. 
