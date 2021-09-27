@@ -8,10 +8,10 @@ I like making websites with React.js, and Express.js
 ---
 - ❤  Vim lover
 - 🔭 I’m currently working on the currently working with NYC SBS, making a workout tracker, and a discord bot for meetings. Stay tuned. 
-- 🌱 I’m currently learning Redux, React Native, Firebase, and Next.js
+- 🌱 I’m currently learning SQL and Next.js
 - 👯 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with career skills
-- 💬 Ask me about the wonders of the universe  
+- 💬 Ask me about anything  
 - 📫 How to reach me: julianq.js@gmail.com
 - ⚡ Fun fact: INTJ
 
